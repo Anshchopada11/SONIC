@@ -1,4 +1,4 @@
-# 🎵 SONIC - Audio Tokenization Platform
+# 🎵 SONIC - Audio Tokenization Platforms
 
 <div align="center">
   <img src="https://img.shields.io/badge/Flow-Blockchain-00EF8B?style=for-the-badge&logo=flow&logoColor=white" alt="Flow Blockchain">
